@@ -1,5 +1,3 @@
-package project-rt.com;
-
 /**
  * Hello world!
  *
